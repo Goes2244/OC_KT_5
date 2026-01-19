@@ -1,0 +1,4 @@
+python-telegram-bot==20.7    # Библиотека для Telegram бота
+psycopg2-binary==2.9.9       # Адаптер PostgreSQL для Python
+python-dotenv==1.0.0         # Загрузка переменных из .env
+SQLAlchemy==2.0.23           # ORM для работы с базой данных
